@@ -50,6 +50,6 @@ class job:
                 '//*[@id="saveBasicDetailsBtn"]').click()
             time.sleep(3)
 
-j=job('amahendra1188@gmail.com','143&amahendra')
+j=job('****************','***********')
 j.login()
 
